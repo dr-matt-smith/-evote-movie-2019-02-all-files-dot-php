@@ -2,7 +2,6 @@
 
 The project has been refactored as follows:
 
-- all file extensions changed from `.html` to `.php`
+- change all `.html` file extension to `.php` 
 
-- all navigation bar links changed to refer to files ending with `.php`
-
+- in every page change the navigtion links to files ending with `.php`
